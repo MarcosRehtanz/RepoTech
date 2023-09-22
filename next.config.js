@@ -1,4 +1,10 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+    env:{
+        route:{
+            about: '/about'
+        }
+    }
+}
 
 module.exports = nextConfig
