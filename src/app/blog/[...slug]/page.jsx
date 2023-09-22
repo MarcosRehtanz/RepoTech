@@ -7,6 +7,7 @@ export default ({ params }) => {
             <h1>I'm a post</h1>
             <h2>{params.slug}</h2>
             <h3>I wanna get married to Juan</h3>
+            <h3>My kids: Lulu & Dante</h3>
         </main>
     )
 
