@@ -1,0 +1,12 @@
+.NavBar{
+    padding: 15px 40px;
+    background-color: lightgray;
+    position: static;
+}
+
+.navigate{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    list-style: none;
+}
